@@ -76,13 +76,13 @@ This project is a multi-page interactive Power BI dashboard built using the Supe
 ## 📷 Dashboard Screenshots
 
 ### Executive Dashboard
-(Add screenshot here)
+![Executive Dashboard](https://github.com/Poornima5ingh/powerbi-ecommerce-sales-dashboard/blob/main/screenshots/ExecutiveDashboard.png)
 
 ### Product Analytics
-(Add screenshot here)
+![Product Analytics Page](https://github.com/Poornima5ingh/powerbi-ecommerce-sales-dashboard/blob/main/screenshots/Product%20Analytics.png)
 
 ### Product Details
-(Add screenshot here)
+![Product Details](https://github.com/Poornima5ingh/powerbi-ecommerce-sales-dashboard/blob/main/screenshots/Product%20Details.png)
 
 ## 📚 Dataset
 Sample Superstore Dataset
